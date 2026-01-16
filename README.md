@@ -5,7 +5,6 @@ Currently, I'm studying **Computer Science** at the **Arab Open University**.
 
 ---
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9zc2tjbzF4cnRqbTFudXo0ZmZ4d2llbXE4Zm8zZjN3OTFsemZpdSZlcD12MV9pbnRlcm5hbF9naWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="280">
 
 ### 🌱 Current Focus
 - Developing smart indoor air quality apps  
