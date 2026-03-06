@@ -1,7 +1,6 @@
 ## Hi, I'm Raneem Alrefaie 👋
 
-I'm a **Software Developer** with a strong interest in building practical and meaningful applications.  
-Currently, I'm studying **Computer Science** at the **Arab Open University**.
+I'm a Software Developer with a strong focus on writing clean, maintainable code and building well-structured applications. Passionate about problem solving, continuous improvement, and turning complex ideas into simple and effective digital solutions.
 
 
 
